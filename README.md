@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm Anna Nguyen</h1>
-<h3 align="center">I am a Computer Science student</h3>
+I am a Computer Science student
 
 - 🔭 I was working as a Software Developer in test at **Absolute Software**
 
@@ -16,5 +16,5 @@
 - ⚡ Fun fact **I love hiking and camping. You can visit my website where I posted some of my hiking trips in BC: https://ontheroadtocanada.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/annatna/" target="blank">/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/annatna/" target="blank" alt="https://www.linkedin.com/in/annatna/>/></a>
 
