@@ -10,10 +10,9 @@ I am a Computer Science student with a passion for full-stack web development pr
 
 - 👨‍💻 Learn more about me at [https://annanguyen.vercel.app](https://annanguyen.vercel.app)
 
-- 📫 I'm best reached via **ngocanhnt269@gmail.com**
+- 📫 I'm best reached via [email] (ngocanhnt269@gmail.com)
 
-- ⚡ I love hiking and camping. You can visit my website where I posted some of my hiking trips in BC: https://ontheroadtocanada.vercel.app
+- ⚡ I love hiking and camping. You can visit my website where I posted some of my hiking trips in BC: [On The Road](https://ontheroadtocanada.vercel.app)
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/annatna/" target="blank" alt="https://www.linkedin.com/in/annatna/>/></a>
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/annatna)
 
