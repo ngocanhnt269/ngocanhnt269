@@ -4,7 +4,7 @@ I am a Computer Science student with a passion for full-stack web development pr
 
 - 🔭 I was working as a Software Developer in test coop at **Absolute Software**
 
-- 🌱 I’m currently learning **C#, .Net and JSF, AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **DreamBuilders** project where we can help children around the world to study or be their mentors. 
 
