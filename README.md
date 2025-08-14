@@ -21,13 +21,13 @@ I'm a Software Development Engineer and Computer Science student passionate abou
 ### 🎯 Currently Pursuing
 
 - AWS Certified Associate Developer
+- GIAC Security Essentials (GSEC)  
+- GIAC Certified Incident Handler (GCIH)  
 
 ---
 
 ### 🏆 Certifications Earned
 
-- GIAC Security Essentials (GSEC)  
-- GIAC Certified Incident Handler (GCIH)  
 - GIAC Foundational Cybersecurity Technologies (GFACT)  
 - AWS Certified Cloud Practitioner  
 - ISC2 Certified in Cybersecurity (CC)
