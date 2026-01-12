@@ -18,69 +18,17 @@ University of Texas at Austin
 
 ## 🔧 Technical Skills
 
-**Programming Languages**  
-- Python, Java, JavaScript, TypeScript, SQL  
+**Programming Languages**  :Python, Java, JavaScript, TypeScript, SQL  
 
-**Backend & APIs**  
-- Flask, FastAPI, Node.js  
-- RESTful API design & implementation  
+**Backend & APIs**: Flask, FastAPI, Node.js, RESTful API design & implementation  
 
-**Frontend**  
-- React, HTML, CSS  
+**Frontend**: React, HTML, CSS  
 
-**Databases**  
-- PostgreSQL, MySQL  
+**Databases** : PostgreSQL, MySQL  
 
-**Cloud & DevOps**  
-- AWS (EC2, S3, IAM)  
-- Docker, CI/CD pipelines  
+**Cloud & DevOps** : AWS (EC2, S3, IAM), Docker, CI/CD pipelines  
 
-**Testing & QA**  
-- PyTest, Jest  
-- Unit testing, integration testing  
-- Test automation & regression testing  
-
-**Security**  
-- Secure coding practices  
-- Incident response  
-- Threat detection  
-- Capture The Flag (CTF) competitions  
-
----
-
-## 🚀 Selected Projects
-
-### 💻 Software Development Engineer
-
-**Secure Data Dashboard**  
-- Designed and built a full-stack dashboard to automate manual data monitoring  
-- Integrated backend services with AWS S3 and a relational database  
-- Reduced daily manual checks from ~45 minutes to under 2 minutes  
-- **Tech:** Python, Flask, React, AWS, PostgreSQL  
-
----
-
-### 🧪 QA / Test Engineering
-
-**Automated API Testing Framework**  
-- Developed unit and integration tests for RESTful services  
-- Increased test coverage from 62% to over 90%  
-- Detected regressions before production releases  
-- Integrated tests into CI pipelines for continuous validation  
-- **Tech:** PyTest, CI/CD, REST APIs  
-
----
-
-### 🛡️ Security Engineering
-
-**Incident Response & Threat Detection Labs**  
-- Investigated simulated security incidents through hands-on CTF challenges  
-- Analyzed logs, malware indicators, and network traffic  
-- Applied the incident handling lifecycle aligned with GIAC GCIH methodology  
-- Practiced secure coding and vulnerability analysis  
-
----
-
+**Testing & QA**: PyTest, Jest, Unit testing, integration testing, Test automation & regression testing, performance test
 
 ## 🏅 Certifications
 
