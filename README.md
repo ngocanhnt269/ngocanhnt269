@@ -1,24 +1,88 @@
-# 👋 Hi, I'm Anna Nguyen!
+# 👋 Hi, I'm Anna Nguyen
 
-I'm a Software Development Engineer and Computer Science student passionate about full-stack development, AI, and cybersecurity. I love building meaningful tools that solve real-world problems—and sharing what I learn along the way.
+Software Development Engineer | Security-Focused Engineer | M.S. Computer Science
 
----
+I build **secure, scalable software systems** with experience across **full-stack development, automated testing, and cybersecurity**.  
+My engineering approach combines clean code, strong testing practices, and a security-first mindset.
 
-### 🎓 Education
-
-**Master of Computer Science** – University of Texas at Austin  
-
----
-
-### 🛡️ My Cybersecurity Journey
-
-- Cybersecurity is a strong interest of mine, especially in secure coding, incident response, and threat detection.  
-- I participate in Capture The Flag (CTF) competitions and was honored to receive the WiCyS Security Training Scholarship, which has given me valuable opportunities to deepen my cybersecurity skills.
+I enjoy solving real-world problems, learning continuously, and contributing to open-source projects.
 
 ---
 
+## 🎓 Education
 
-### 🏆 Certifications Earned
+**Master of Computer Science (MCS)**  
+University of Texas at Austin  
+
+---
+
+## 🔧 Technical Skills
+
+**Programming Languages**  
+- Python, Java, JavaScript, TypeScript, SQL  
+
+**Backend & APIs**  
+- Flask, FastAPI, Node.js  
+- RESTful API design & implementation  
+
+**Frontend**  
+- React, HTML, CSS  
+
+**Databases**  
+- PostgreSQL, MySQL  
+
+**Cloud & DevOps**  
+- AWS (EC2, S3, IAM)  
+- Docker, CI/CD pipelines  
+
+**Testing & QA**  
+- PyTest, Jest  
+- Unit testing, integration testing  
+- Test automation & regression testing  
+
+**Security**  
+- Secure coding practices  
+- Incident response  
+- Threat detection  
+- Capture The Flag (CTF) competitions  
+
+---
+
+## 🚀 Selected Projects
+
+### 💻 Software Development Engineer
+
+**Secure Data Dashboard**  
+- Designed and built a full-stack dashboard to automate manual data monitoring  
+- Integrated backend services with AWS S3 and a relational database  
+- Reduced daily manual checks from ~45 minutes to under 2 minutes  
+- **Tech:** Python, Flask, React, AWS, PostgreSQL  
+
+---
+
+### 🧪 QA / Test Engineering
+
+**Automated API Testing Framework**  
+- Developed unit and integration tests for RESTful services  
+- Increased test coverage from 62% to over 90%  
+- Detected regressions before production releases  
+- Integrated tests into CI pipelines for continuous validation  
+- **Tech:** PyTest, CI/CD, REST APIs  
+
+---
+
+### 🛡️ Security Engineering
+
+**Incident Response & Threat Detection Labs**  
+- Investigated simulated security incidents through hands-on CTF challenges  
+- Analyzed logs, malware indicators, and network traffic  
+- Applied the incident handling lifecycle aligned with GIAC GCIH methodology  
+- Practiced secure coding and vulnerability analysis  
+
+---
+
+
+## 🏅 Certifications
 
  
 - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d541dc65-7028-4148-9a9c-bca91a6482bf/public_url)
@@ -28,21 +92,35 @@ I'm a Software Development Engineer and Computer Science student passionate abou
 - [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/earner/earned/badge/ddd3ff5e-02e5-4601-ab39-c8053fb81242)
 
 ---
+## 🏆 Achievements
 
-### 🥇 Achievements
-
-- Selected for the WiCyS Security Training Scholarship 2025  
-- Ranked Top 2% in TryHackMe Tier 2  
-- Achieved 36th place in Tier 1 CTF  
-- British Columbia Women In Tech 2023: Awarded to one of the top 10 students across BC for academic excellence and commitment to the tech industry.  
-- Saigon Construction Corporation's 2018 Employee of the Year: Recognized for exceptional contributions in engineering leadership and successful project delivery.
+- Selected for **WiCyS Security Training Scholarship (2025)**  
+- Ranked **Top 2%** on TryHackMe (Tier 2)  
+- **36th place** in Tier 1 Capture The Flag competition  
+- **British Columbia Women in Tech (2023)**  
+  - Awarded to one of the top 10 students across BC for academic excellence and commitment to tech  
+- **Saigon Construction Corporation – Employee of the Year (2018)**  
+  - Recognized for engineering leadership and successful project delivery  
 
 ---
 
-### 🤝 Open Source Contributions
+## 🤝 Open Source Contributions
 
-- I’m passionate about giving back to the developer community through open source.  
-- Contributed bug fixes and feature enhancements to JavaScript and Python libraries on GitHub.  
-- Participated in hackathons and collaborative coding events to improve testing tools and developer workflows.  
-- Regularly review and provide feedback on pull requests to maintain high code quality.  
-- Interested in collaborating on open source projects focused on AI, cloud security, and educational technology.
+- Contributed bug fixes and feature enhancements to JavaScript and Python projects on GitHub  
+- Participated in hackathons and collaborative coding events  
+- Reviewed pull requests and provided feedback to maintain code quality  
+- Interested in collaborating on open-source projects related to:
+  - AI & machine learning  
+  - Cloud & application security  
+  - Developer tooling & education  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN ](https://www.linkedin.com/in/annatna/) 
+- **GitHub:** [https://github.com/YOUR-GITHUB  ](https://github.com/ngocanhnt269)
+
+---
+
+⭐️ *I’m actively seeking opportunities in Software Development Engineering, QA / Test Engineering, and Security Engineering. Feel free to reach out!*
