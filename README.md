@@ -118,8 +118,8 @@ University of Texas at Austin
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINKEDIN ](https://www.linkedin.com/in/annatna/) 
-- **GitHub:** [https://github.com/YOUR-GITHUB  ](https://github.com/ngocanhnt269)
+- **LinkedIn:** (https://www.linkedin.com/in/annatna/) 
+- **GitHub:** (https://github.com/ngocanhnt269)
 
 ---
 
