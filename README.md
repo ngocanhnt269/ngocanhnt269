@@ -7,7 +7,6 @@ I'm a Software Development Engineer and Computer Science student passionate abou
 ### 🎓 Education
 
 **Master of Computer Science** – University of Texas at Austin  
-*Focus: Artificial Intelligence & Machine Learning*
 
 ---
 
@@ -18,19 +17,15 @@ I'm a Software Development Engineer and Computer Science student passionate abou
 
 ---
 
-### 🎯 Currently Pursuing
-
-- AWS Certified Associate Developer
-- GIAC Security Essentials (GSEC)  
-- GIAC Certified Incident Handler (GCIH)  
-
----
 
 ### 🏆 Certifications Earned
 
-- GIAC Foundational Cybersecurity Technologies (GFACT)  
-- AWS Certified Cloud Practitioner  
-- ISC2 Certified in Cybersecurity (CC)
+ 
+- [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/d541dc65-7028-4148-9a9c-bca91a6482bf/public_url)
+- [GIAC Security Essentials (GSEC) ](https://www.credly.com/earner/earned/badge/c94ddc49-3873-4b94-9b9c-e7181f1fb64a)
+- [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/earner/earned/badge/d0621aed-cfd8-470a-bcca-cb55ed7414d9)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/fe694a9b-d8aa-40b8-bb0d-47b33b8726c6)
+- [ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/earner/earned/badge/ddd3ff5e-02e5-4601-ab39-c8053fb81242)
 
 ---
 
